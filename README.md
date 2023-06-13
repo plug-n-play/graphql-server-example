@@ -1,1 +1,1 @@
-# cyclic-graphql-server-example
+# graphql-server-example
